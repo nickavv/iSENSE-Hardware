@@ -1,11 +1,11 @@
 package edu.uml.cs.isense.test;
 
-import static org.junit.Assert.assertEquals;
-
+import org.junit.Assert;
 import org.junit.Test;
-import org.junit.Ignore;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
+
+import edu.uml.cs.isense.comm.API;
 
 /**
  * Tests for API.java.
@@ -14,15 +14,11 @@ import org.junit.runners.JUnit4;
  */
 @RunWith(JUnit4.class)
 public class APITest {
-
+	
     @Test
-    public void thisAlwaysPasses() {
-    	
+    public void getAPITest() {
+    	API api = API.getInstance();
+    	Assert.assertTrue(api != null);
     }
 
-    @Test
-    @Ignore
-    public void thisIsIgnored() {
-    	
-    }
 }
