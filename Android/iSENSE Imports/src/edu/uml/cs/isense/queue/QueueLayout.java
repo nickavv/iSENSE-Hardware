@@ -19,7 +19,7 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import edu.uml.cs.isense.R;
-import edu.uml.cs.isense.comm.API;
+import edu.uml.cs.isense.api.API;
 import edu.uml.cs.isense.comm.Connection;
 import edu.uml.cs.isense.credentials.Login;
 import edu.uml.cs.isense.dfm.DataFieldManager;

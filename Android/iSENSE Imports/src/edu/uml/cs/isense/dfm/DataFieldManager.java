@@ -14,7 +14,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
 import edu.uml.cs.isense.R;
-import edu.uml.cs.isense.comm.API;
+import edu.uml.cs.isense.api.API;
 import edu.uml.cs.isense.objects.RProjectField;
 
 /**

@@ -11,8 +11,8 @@ import org.json.JSONObject;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
-import edu.uml.cs.isense.comm.API;
-import edu.uml.cs.isense.comm.API.TargetType;
+import edu.uml.cs.isense.api.API;
+import edu.uml.cs.isense.api.API.TargetType;
 import edu.uml.cs.isense.dfm.DataFieldManager;
 
 /**

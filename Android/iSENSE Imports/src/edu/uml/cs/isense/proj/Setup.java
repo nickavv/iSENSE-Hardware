@@ -16,7 +16,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import edu.uml.cs.isense.R;
-import edu.uml.cs.isense.comm.API;
+import edu.uml.cs.isense.api.API;
 import edu.uml.cs.isense.comm.Connection;
 import edu.uml.cs.isense.objects.RProjectField;
 import edu.uml.cs.isense.waffle.Waffle;

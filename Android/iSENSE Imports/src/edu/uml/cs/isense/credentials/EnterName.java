@@ -11,7 +11,7 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
 import edu.uml.cs.isense.R;
-import edu.uml.cs.isense.comm.API;
+import edu.uml.cs.isense.api.API;
 import edu.uml.cs.isense.waffle.Waffle;
 
 /**

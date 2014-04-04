@@ -15,7 +15,7 @@ import java.util.Queue;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Environment;
-import edu.uml.cs.isense.comm.API;
+import edu.uml.cs.isense.api.API;
 
 /**
  * Class that represents the queue of data sets.  This object

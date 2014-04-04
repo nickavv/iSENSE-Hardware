@@ -88,7 +88,7 @@ import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
 import android.widget.Toast;
 import android.widget.ViewFlipper;
-import edu.uml.cs.isense.comm.API;
+import edu.uml.cs.isense.api.API;
 import edu.uml.cs.isense.comm.Connection;
 import edu.uml.cs.isense.pinports.exceptions.NoConnectionException;
 import edu.uml.cs.isense.pinports.pincushion.BluetoothService;

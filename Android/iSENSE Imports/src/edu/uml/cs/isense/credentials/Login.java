@@ -11,7 +11,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import edu.uml.cs.isense.R;
-import edu.uml.cs.isense.comm.API;
+import edu.uml.cs.isense.api.API;
 import edu.uml.cs.isense.comm.Connection;
 import edu.uml.cs.isense.supplements.ObscuredSharedPreferences;
 

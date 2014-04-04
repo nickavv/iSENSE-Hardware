@@ -26,7 +26,7 @@ import android.widget.ScrollView;
 import android.widget.Spinner;
 import android.widget.TextView;
 import edu.uml.cs.isense.R;
-import edu.uml.cs.isense.comm.API;
+import edu.uml.cs.isense.api.API;
 import edu.uml.cs.isense.credentials.Login;
 import edu.uml.cs.isense.objects.RProjectField;
 import edu.uml.cs.isense.supplements.ObscuredSharedPreferences;
